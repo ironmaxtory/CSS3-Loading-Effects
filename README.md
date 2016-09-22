@@ -1,20 +1,18 @@
-# DEMO
+# CSS3 Loading Effects
 A demo project created and inited by ironmaxtory-test-cli
 
 ## INTRODUCTION
-You can use the basic demo to develope your project swiftly with gulp tools
+A project created for realizing `Loading Effects` by using CSS3 and few HTML Codes
 
 ## USAGE
-
 ```bash
 [export NODE_ENV=development]
 npm install
 gulp
 ```
 
-## Contribute
-[Nothing]
+## Referrence
+[CSS3 几步即可实现loading动画效果](http://forums.fami2u.com/t/css3-loading/65)
 
 ## License
-
 This project is licensed under the terms of the MIT license
