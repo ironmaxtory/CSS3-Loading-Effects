@@ -8,8 +8,8 @@ You can use the basic demo to develope your project swiftly with gulp tools
 
 ```bash
 [export NODE_ENV=development]
-
 npm install
+gulp
 ```
 
 ## Contribute
