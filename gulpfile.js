@@ -12,7 +12,6 @@ const fs = require('fs'), //文件系统
   base64 = require('gulp-base64'),  //base64工具
   htmlmin = require('gulp-htmlmin'), //压缩Html文件工具
   order = require('gulp-order'), //安排文件顺序工具
-  imagemin = require('gulp-imagemin'), //压缩图片工具
   clean = require('gulp-clean'), //清除文件工具
   rename = require('gulp-rename'), //重命名工具
   runSq = require('gulp-run-sequence'), //顺序执行
